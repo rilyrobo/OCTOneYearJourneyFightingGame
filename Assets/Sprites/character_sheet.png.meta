@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: e13d15e987501684e8f94b3f4d46802c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7804099458985077240
+    second: CharIcon001
+  - first:
+      213: -5893526578534642006
+    second: CharIcon002
+  - first:
+      213: 4164592678215051432
+    second: CharIcon003
+  - first:
+      213: -3735360865433751546
+    second: CharIcon004
+  - first:
+      213: -444675118798003180
+    second: CharIcon005
+  - first:
+      213: 3877699762945410923
+    second: CharIcon006
+  - first:
+      213: 5087259811543911403
+    second: CharSelect
+  - first:
+      213: -2032492506743796589
+    second: CharFrame
+  - first:
+      213: 6983323902199666440
+    second: CharFrameBlack
+  - first:
+      213: -3692977343040965611
+    second: CharIcon007
+  - first:
+      213: -6779826517079514578
+    second: CharIcon008
+  - first:
+      213: 5869063482477035161
+    second: CharIcon009
+  - first:
+      213: -6647183055582611406
+    second: CharIcon010
+  - first:
+      213: -8349923239711328407
+    second: CharIcon011
+  - first:
+      213: 3367807187088756752
+    second: CharIcon012
+  - first:
+      213: -4927344120452080713
+    second: CharIcon026
+  - first:
+      213: 2432823955400947273
+    second: CharIcon013
+  - first:
+      213: -3642071419628832362
+    second: CharIcon014
+  - first:
+      213: 1489140575401616562
+    second: CharIcon015
+  - first:
+      213: -4216367747602107409
+    second: CharIcon016
+  - first:
+      213: -7239860989559140578
+    second: CharIcon017
+  - first:
+      213: -4249064673857173074
+    second: CharIcon018
+  - first:
+      213: -66736662710062183
+    second: CharIcon027
+  - first:
+      213: -3666660684182027426
+    second: CharIcon019
+  - first:
+      213: 7730581510022883662
+    second: CharIcon020
+  - first:
+      213: -2884717677004956060
+    second: CharIcon021
+  - first:
+      213: -5294222749403342789
+    second: CharIcon022
+  - first:
+      213: 4776652335569342724
+    second: CharIcon023
+  - first:
+      213: 3962859636622276114
+    second: CharIcon024
+  - first:
+      213: -1106381698481674399
+    second: CharIcon028
+  - first:
+      213: 1149376634873119371
+    second: CharIcon025
+  - first:
+      213: -5205815302293157604
+    second: CharMask01
+  - first:
+      213: -435943984030200066
+    second: CharMask02
+  - first:
+      213: -2533003358487770277
+    second: CharSelected
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharIcon001
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa144f007811e841a7c3bf65a36e305
+      internalID: -7804099458985077240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon002
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0bfb4e1a8db8429e568a316992f7c
+      internalID: -5893526578534642006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon003
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c68a695d869794f98179902854f33c
+      internalID: 4164592678215051432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon004
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef348bb9f193c24880753b224f43bef
+      internalID: -3735360865433751546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon005
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d5773ed114c945ba2b32cf6e7bf3b
+      internalID: -444675118798003180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon006
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483fb8f0fcc804458377c3c13f73b1c
+      internalID: 3877699762945410923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharSelect
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 597
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c32fc6151bc647af409e1e8e58476
+      internalID: 5087259811543911403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharFrame
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 597
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984ab48b66560148a4072e00ac44bed
+      internalID: -2032492506743796589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharFrameBlack
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 597
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a466dc40e6cbf4384ebce82d32525c
+      internalID: 6983323902199666440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon007
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e3324a2103034f89599550f2f5a11
+      internalID: -3692977343040965611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon008
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effcf3c9001d79c4596cbc93080ce097
+      internalID: -6779826517079514578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon009
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f7f8843b1d1e40bb75766973051e0
+      internalID: 5869063482477035161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon010
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51499e54f4c9ccf45ab932c9db0b7971
+      internalID: -6647183055582611406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon011
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bdf252a664d7343b7171c760b09560
+      internalID: -8349923239711328407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon012
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8eacf300963d046b781bdc53b40f92
+      internalID: 3367807187088756752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon026
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 511
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c6d4393e8fd274d990a829480398b1
+      internalID: -4927344120452080713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon013
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0770988331466b141a43d0cdb05707b2
+      internalID: 2432823955400947273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon014
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd697f01241d25419b9fa63e4eaa8dd
+      internalID: -3642071419628832362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon015
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89245d6d649659e4fad4d41860d75877
+      internalID: 1489140575401616562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon016
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff61048324e0245b88b3a437923a1e
+      internalID: -4216367747602107409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon017
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49f09f313158a43914ff9365ad3ccb
+      internalID: -7239860989559140578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon018
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26fba0982717e24e8d28872a8d529b3
+      internalID: -4249064673857173074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon027
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 352
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e187bd5a2cc5e154cb52478d3133464d
+      internalID: -66736662710062183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon019
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa68fd284ecb6448f313eab1ad4a83
+      internalID: -3666660684182027426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon020
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92638bd4194b4f44e9cd1996948711c4
+      internalID: 7730581510022883662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon021
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 193
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e751e2d8334146b6dc9ce8f29068c
+      internalID: -2884717677004956060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon022
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 194
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00dbfd0189b834090f224436227122
+      internalID: -5294222749403342789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon023
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 194
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2c98999cee3f4894f40ac7ac6c4a6
+      internalID: 4776652335569342724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon024
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 193
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473f010d910b4a43a7f7ea99d4a39c9
+      internalID: 3962859636622276114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon028
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 193
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c6fb7eaec5884ebab636355db1f29
+      internalID: -1106381698481674399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharIcon025
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 670
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ee3765889baa47b10ad7bb1eb91ed
+      internalID: 1149376634873119371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharMask01
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 382
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77519c4780c1f4d994891ea78be3a4
+      internalID: -5205815302293157604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharMask02
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 382
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e04cd6ce091f4b93a5b9d46e618f1
+      internalID: -435943984030200066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharSelected
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 382
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e44c0167568e41b10ff5d2d1ca7d6
+      internalID: -2533003358487770277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

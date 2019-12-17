@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 6755ffafd91bc3c44b81c6393095fffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6720616082242110240
+    second: Stage001
+  - first:
+      213: 8912068615085778593
+    second: Stage002
+  - first:
+      213: -7947487741903962526
+    second: Stage003
+  - first:
+      213: -1646829107336003632
+    second: Stage004
+  - first:
+      213: -2520472041084905615
+    second: StageSelect
+  - first:
+      213: 3770366550675052423
+    second: StageFrame
+  - first:
+      213: -2456837950142348679
+    second: Stage005
+  - first:
+      213: -4229815172606151092
+    second: Stage006
+  - first:
+      213: 131827424206742735
+    second: Stage007
+  - first:
+      213: 7783248039090724370
+    second: Stage008
+  - first:
+      213: -443020059195448031
+    second: Stage009
+  - first:
+      213: -7416993607607442071
+    second: Stage010
+  - first:
+      213: -527084854399319171
+    second: Stage011
+  - first:
+      213: 5242219680491864098
+    second: Stage012
+  - first:
+      213: 7849597279102459482
+    second: StageFrameBlack
+  - first:
+      213: 1099504498178534851
+    second: Stage013
+  - first:
+      213: 4291625331530684262
+    second: Stage014
+  - first:
+      213: -2434545468021419450
+    second: Stage015
+  - first:
+      213: -6357774962451398951
+    second: Stage016
+  - first:
+      213: 5054096055929485945
+    second: Stage017
+  - first:
+      213: -2243589257469837180
+    second: Stage018
+  - first:
+      213: 1129980761622210429
+    second: Stage019
+  - first:
+      213: -6414233635750385689
+    second: Stage020
+  - first:
+      213: 6720616082242110240
+    second: StageMask02
+  - first:
+      213: 8912068615085778593
+    second: StageSelected
+  - first:
+      213: -7947487741903962526
+    second: StageMask01
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage001
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416700289bfed041a5db8f597126f60
+      internalID: 6720616082242110240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage002
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 670
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0871880de35742b62e519393209b1
+      internalID: 8912068615085778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage003
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 670
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb1c3f6bc898649b702c8f38d1a51f
+      internalID: -7947487741903962526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage004
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 670
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad50efdbaaa75499673f064afdf21b
+      internalID: -1646829107336003632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelect
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 596
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d934fbe1e2f014babc3a1279f16a70
+      internalID: -2520472041084905615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageFrame
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 601
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a1798ab856704a920bc76a3fa090d
+      internalID: 3770366550675052423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage005
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433089efb9b53444db701004204a542b
+      internalID: -2456837950142348679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage006
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 516
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c158e9c84a4541a98cf6130b75b53
+      internalID: -4229815172606151092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage007
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 516
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8932d2abc9e2fe42a2794a37ab99430
+      internalID: 131827424206742735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage008
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 516
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75809b9eeb44bfe489307cbe45802532
+      internalID: 7783248039090724370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage009
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594d2f6295ae794090cb9e0601799ac
+      internalID: -443020059195448031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage010
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 362
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ceeaf8355b6546a1676c727cc16a4
+      internalID: -7416993607607442071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage011
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 362
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1a9fc2a6c3b1419d08b8bc45e7f5f
+      internalID: -527084854399319171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage012
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 362
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e3a27807aa534292d36c7745c6666
+      internalID: 5242219680491864098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageFrameBlack
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 386
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ffff873890f6468fc172ac1491a3e
+      internalID: 7849597279102459482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage013
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 208
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fe3e1f35d9514ba3f91a487f157b5
+      internalID: 1099504498178534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage014
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 208
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb23cb7dda08db48b561d48a307f03a
+      internalID: 4291625331530684262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage015
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 208
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27d87436207b44296fe2624b2e6406
+      internalID: -2434545468021419450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage016
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 208
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f4a5c41e0d324aa61bfa06f759b5b
+      internalID: -6357774962451398951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage017
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7670e5973d58aa4bab1506141bbb8ec
+      internalID: 5054096055929485945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage018
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccaa626201df149983054933b574cf
+      internalID: -2243589257469837180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage019
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 54
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1e2fc8668341418bcae09149f87fd
+      internalID: 1129980761622210429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage020
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 54
+        width: 289
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e82a47669b6ef4a8c59760be66a09f
+      internalID: -6414233635750385689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageMask02
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 171
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687386d48032fc408334537a03a21ee
+      internalID: 6720616082242110240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelected
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 171
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408036e63064dd1428988fb55e2c08be
+      internalID: 8912068615085778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageMask01
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 386
+        width: 341
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2baa8ee1112aa4c96f19149513775b
+      internalID: -7947487741903962526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4e3739d9e0999994f98358f49ab3e1f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

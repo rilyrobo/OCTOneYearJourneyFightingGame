@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 769c8aa05a32d1245a8c9c6619faaf10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2187710448896857647
+    second: hud_sheet_0
+  - first:
+      213: -7639005085547955643
+    second: hud_sheet_2
+  - first:
+      213: -4561174306438070645
+    second: hud_sheet_5
+  - first:
+      213: -485044595799656576
+    second: hud_sheet_6
+  - first:
+      213: 452898570229214020
+    second: hud_sheet_8
+  - first:
+      213: -662143213102201340
+    second: hud_sheet_9
+  - first:
+      213: 7834161820046095296
+    second: Victory
+  - first:
+      213: 4389913317202548536
+    second: Round
+  - first:
+      213: -7378626219670699542
+    second: One
+  - first:
+      213: -5712443807977519580
+    second: Combat
+  - first:
+      213: -9067513695745642356
+    second: Failure
+  - first:
+      213: -328783910336262465
+    second: Two
+  - first:
+      213: 2311221121597845439
+    second: Final
+  - first:
+      213: -2673018694278879505
+    second: Three
+  - first:
+      213: -2118464551858464936
+    second: Health
+  - first:
+      213: 3930501936765425308
+    second: WinIcon
+  - first:
+      213: -8488005609216447816
+    second: Guage
+  - first:
+      213: -5921469739986103913
+    second: Hud
+  - first:
+      213: 7834161820046095296
+    second: HudMask
+  - first:
+      213: 7834161820046095296
+    second: hud_sheet2_0
+  - first:
+      213: 2035916342260548311
+    second: hud_sheet2_1
+  - first:
+      213: -8489991222272965585
+    second: hud_sheet2_2
+  - first:
+      213: 8979879980450497019
+    second: hud_sheet2_3
+  - first:
+      213: -6111795616955540995
+    second: hud_sheet2_4
+  - first:
+      213: -2618727636366451273
+    second: hud_sheet2_5
+  - first:
+      213: 3965348122931619531
+    second: hud_sheet2_6
+  - first:
+      213: 4389913317202548536
+    second: hud_sheet2_7
+  - first:
+      213: -2806769144551643283
+    second: Final
+  - first:
+      213: 7744711556442066489
+    second: hud_sheet2_9
+  - first:
+      213: -476708137913554157
+    second: FufBoonClubs
+  - first:
+      213: 1954358490044345084
+    second: FufBoonBells
+  - first:
+      213: 464456812353789045
+    second: FufBoonSpades
+  - first:
+      213: 1177860662229768756
+    second: FufBoonGrid
+  - first:
+      213: -3809819456344298610
+    second: FufBoonDiamonds
+  - first:
+      213: -1855198892200390184
+    second: FufBoonMasks
+  - first:
+      213: 1950841160711254022
+    second: FufBoonHearts
+  - first:
+      213: -8399162857114324200
+    second: FufBoonHats
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Victory
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 612
+        width: 624
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5610cdf93a9ae14ebdcbc8e6c0607aa
+      internalID: 7834161820046095296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 613
+        width: 320
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df973e553b2edb243a5632ff5709e86e
+      internalID: 4389913317202548536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 680
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be382168ee895e48b27d76ad1ec15ba
+      internalID: -7378626219670699542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combat
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 428
+        width: 620
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a610055a52a427408591764b48da05e
+      internalID: -5712443807977519580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failure
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 397
+        width: 649
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e98620be827254eb791e33bd647eed
+      internalID: -9067513695745642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Two
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 573
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e536f383010eb41ab3b52d68408cd6
+      internalID: -328783910336262465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Three
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 460
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd04875bf68c38549ac1fd8f7698b208
+      internalID: -2673018694278879505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 343
+        width: 498
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29d03b7aee54f409c2f0ff5952eb07
+      internalID: -2118464551858464936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinIcon
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 301
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f34c03cf553844943b275c3e6b72d
+      internalID: 3930501936765425308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guage
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 307
+        width: 498
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca8a90f75bb6c4e87fbf5c4bbefbb4
+      internalID: -8488005609216447816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 1668
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4e38219cb56f42bd9d7dd46ca83e0
+      internalID: -5921469739986103913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudMask
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 850
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fec21b0deec794dbfcd4da476c19f5
+      internalID: 7834161820046095296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 470
+        width: 240
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8105b11880b945ac071e925f808c4
+      internalID: -2806769144551643283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonClubs
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 384
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ffdd6160cb8764fb49b31a59c7b512
+      internalID: -476708137913554157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonBells
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 387
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6de2f17c23d4084c82d701a419496c9
+      internalID: 1954358490044345084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonSpades
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 340
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b245274886d3345b7ff1f1303c49ea
+      internalID: 464456812353789045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonGrid
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 342
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ded2312af4ab46ac5add29739d16d
+      internalID: 1177860662229768756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonDiamonds
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 293
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e57e82972a9ab44955e8f8955ef0c7
+      internalID: -3809819456344298610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonMasks
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 295
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c881e652d7b6d4f930ed25d3b0033f
+      internalID: -1855198892200390184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonHearts
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 252
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3167394e08bd49a403d43b5fa8bfd
+      internalID: 1950841160711254022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FufBoonHats
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 256
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd74be0cb3e1bd488eb2391bbe3265d
+      internalID: -8399162857114324200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
