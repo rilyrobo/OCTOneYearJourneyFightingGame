@@ -77,12 +77,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2871726542366099227}
-  m_LocalRotation: {x: -0.040845092, y: 0.029719764, z: 0.74029636, w: 0.6703803}
-  m_LocalPosition: {x: 0.39968792, y: 1.3137013, z: -0.008870397}
-  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.06, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2871726543157241086}
-  m_RootOrder: 3
+  m_Father: {fileID: 2871726543157241036}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2871726542366099220
 MeshFilter:
@@ -242,12 +242,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2871726542413422001}
-  m_LocalRotation: {x: 0.7402964, y: 0.67038035, z: -0.040843908, w: 0.0297205}
-  m_LocalPosition: {x: -0.3996879, y: 1.3137013, z: -0.008871492}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.06, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2871726543157241086}
-  m_RootOrder: 2
+  m_Father: {fileID: 2871726543157241016}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2871726542413422002
 MeshFilter:
@@ -1320,6 +1320,7 @@ Transform:
   - {fileID: 2871726543157240970}
   - {fileID: 2871726543157240972}
   - {fileID: 2777323963450043057}
+  - {fileID: 2871726542413422000}
   m_Father: {fileID: 2871726543157241018}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1636,6 +1637,7 @@ Transform:
   - {fileID: 2871726543157241054}
   - {fileID: 2871726543157241024}
   - {fileID: 2777323965118292689}
+  - {fileID: 2871726542366099226}
   m_Father: {fileID: 2871726543157241038}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2309,8 +2311,6 @@ Transform:
   m_Children:
   - {fileID: 2871726543157241062}
   - {fileID: 2871726543157241058}
-  - {fileID: 2871726542413422000}
-  - {fileID: 2871726542366099226}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
